@@ -10,7 +10,7 @@
 
 ###
 
-Hello! I'm Rakib Gazi, a passionate web developer with a strong interest in building scalable, performant, and user-friendly websites. I love exploring new technologies and building things that solve real-world problems. Currently, I'm focusing on creating seamless user experiences and improving my skills in React.js, Next.js, and more.
+I’m a passionate React developer with a background in full-stack development, starting from PHP and Laravel. After earning my Master's in English, I transitioned to web development and now specialize in building dynamic, user-friendly front-end applications using React, Tailwind CSS, and Bootstrap. Always eager to learn and grow!
 
 - 🔭 I’m currently working on **Next.js** and building a **Tourism Website**.
 - 🌱 I’m learning **TypeScript** and exploring **Server-side Rendering (SSR)** with **Next.js**.
