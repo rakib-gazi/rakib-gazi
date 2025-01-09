@@ -12,10 +12,10 @@
 
 I’m a passionate React developer with a background in full-stack development, starting from PHP and Laravel. After earning my Master's in English, I transitioned to web development and now specialize in building dynamic, user-friendly front-end applications using React, Tailwind CSS, and Bootstrap. Always eager to learn and grow!
 
-- 🔭 I’m currently working on **Next.js** and building a **Tourism Website**.
-- 🌱 I’m learning **TypeScript** and exploring **Server-side Rendering (SSR)** with **Next.js**.
+- 🔭 I’m currently working on **React.js**.
+- 🌱 I’m learning **JavaScript** .
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Web Development** initiatives.
-- 📫 How to reach me: **rakibgazi@domain.com**
+- 📫 How to reach me: **bd.gazi67@gmail.com**
 
 ###
 
