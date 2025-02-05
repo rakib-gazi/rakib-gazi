@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://i.ibb.co.com/0yKhDcV4/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
+<img align="right" height="300" src="https://i.ibb.co.com/0yKhDcV4/Navy-Blue-Geometric-Technology-Linked-In-Banner.png"  />
 
 ###
 
